@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Nate!
+
+- 🔭 I’m currently working on leveling up my Data Analysis skills
+- 🌱 I’m currently learning AstroPy
+- 😄 Pronouns: He/Him/His
+
+
 <!--
 **nateonmission/nateonmission** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
