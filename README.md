@@ -2,9 +2,7 @@
 
 My name is Nate!
 
-- 🔭 I’m currently working on leveling up my Data Analysis skills
-- 🌱 I’m currently learning AstroPy
-- 😄 Pronouns: He/Him/His
+I work in Python, Java, C#, and JavaScript.
 
 
 <!--
