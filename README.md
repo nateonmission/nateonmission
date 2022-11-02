@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-My name is Nate!
+Hi, my name is Nate Allen and I'm a software developer and technologist! I've been playing with computers since I was 8 years old, when I got a Commodor64 for Christmas! Over the years, I've seen many changes and have enjoyed the ride as technology has transformed our World and conventions come and go.
 
-I work in Python, Java, C#, and JavaScript.
+- 🔭 I’m currently working in Python, Vue, AWS (S3, EC2, Kenesis, etc)
+- 🌱 I’m currently learning all the things in/on/around AWS. Working towards my Certs.
 
-[![@nateonmission's Holopin board](https://holopin.io/api/user/board?user=nateonmission)](https://holopin.io/@nateonmission)
+- 💬 Ask me about my kiddos... I can talk for hours LOL
+- 📫 How to reach me: nateonmission on most social media
+- 😄 Pronouns: yea, repeating nouns is tedious (he/him in English)
+- ⚡ Fun fact: INTJ (MyersBriggs) / 5 (Enneagram)
+
 
 <!--
 **nateonmission/nateonmission** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
