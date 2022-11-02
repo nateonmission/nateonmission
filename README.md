@@ -7,7 +7,7 @@ Hi, my name is Nate Allen and I'm a software developer and technologist! I've be
 
 - 💬 Ask me about my kiddos... I can talk for hours LOL
 - 📫 How to reach me: nateonmission on most social media
-- 😄 Pronouns: yea, repeating nouns is tedious (he/him in English)
+- 😄 Pronouns: yes, repeating nouns is tedious (he/him in English)
 - ⚡ Fun fact: INTJ (MyersBriggs) / 5 (Enneagram)
 
 
