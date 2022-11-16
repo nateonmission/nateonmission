@@ -11,7 +11,7 @@ Hi, my name is Nate Allen and I'm a software developer and technologist! I've be
 - ⚡ Fun fact: INTJ (MyersBriggs) / 5 (Enneagram)
 
 <!-- [![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nateonmission)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nateonmission&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nateonmission&hide=TeX&layout=compact) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nateonmission.nateonmission)
 
