@@ -10,6 +10,7 @@ Hi, my name is Nate Allen and I'm a software developer and technologist! I've be
 - 😄 Pronouns: yes, repeating nouns is tedious (he/him in English)
 - ⚡ Fun fact: INTJ (MyersBriggs) / 5 (Enneagram)
 
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nateonmission)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nateonmission/nateonmission** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
