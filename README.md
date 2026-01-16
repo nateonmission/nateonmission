@@ -44,7 +44,7 @@ I’m most comfortable working **close to the data and the business logic**, whe
 ## 📚 Background (Short Version)
 
 - Middle Tennessee State University - B.S. International Relations, French & German  
-- The Southern Baptist Theological Seminary - Master of Divinity (Christian Missions)  
+- The Southern Baptist Theological Seminary - M.Div. Great Commission Studies  
 - The University of Louisville - B.S.B.A. Accounting  
 - 20+ years in technical support, troubleshooting, and systems work  
 - Transitioned into backend development over the last 7 years  
